@@ -1,7 +1,7 @@
 # Event Ticket Booking System
 
 ## Tech Stack
-- Java 17, Spring Boot, Spring Data JPA, H2, Lombok
+- Java 17, Spring Boot, Spring Data JPA, Postgres, Lombok
 - Docker, Docker Compose
 
 **Assumptions:**
